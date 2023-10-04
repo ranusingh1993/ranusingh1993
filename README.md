@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ranusingh1993/ Ranu Singh
-- 👀 I’m interested in Coding and AI (Python, Java, Machine Learning, Deep Learning)
-- 🌱 I’m currently learning Angular and Go
+- 👀 I’m interested in Coding and AI (Python, Java, Machine Learning, Deep Learning) and Golang
+- 🌱 I’m currently learning React and microservices architecture
 - 💞️ I’m looking to collaborate on Webapps, Research in Medical Imaging Automation, Finencial Frauds or risks and Electric Vehicle Navigation Algorithm
 - 📫 How to reach me ranusingh1993@gmail.com
 
